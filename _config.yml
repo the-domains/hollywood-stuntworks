@@ -1,7 +1,7 @@
 name: Hollywood Stuntworks
 favicon: null
-layout_spectrum: 0.31111125461757183
-typography_spectrum: 0.1202287042979151
+layout_spectrum: 0.7835
+typography_spectrum: 0.84241
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#4d3860'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.9904933902435005
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
