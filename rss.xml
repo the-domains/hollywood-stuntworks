@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hollywood Stuntworks]]></title>
         <description><![CDATA[Hollywood Stuntworks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hollywood-stuntworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 00:49:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 00:55:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hollywood-stuntworks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is another post.</p>]]></description>
-            <link>undefinedthis-is-another-post/index.html</link>
+            <description><![CDATA[<p>This project consisted of site demolition, installation of two 40-ton truck scales within structural concrete pit foundations, over 6900 SF of concrete approach slab, a 24 ft cantilever crash gate...</p>]]></description>
+            <link>https://thegrid.ai/hollywood-stuntworks/this-is-another-post/index.html</link>
             <guid isPermaLink="false">43614311-21b8-4fd7-92b4-99eaf9b2069b</guid>
-            <pubDate>Sat, 23 Apr 2016 00:49:54 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 00:55:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
