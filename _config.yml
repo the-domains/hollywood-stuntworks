@@ -1,0 +1,28 @@
+name: Hollywood Stuntworks
+favicon: null
+layout_spectrum: 0.31111125461757183
+typography_spectrum: 0.1202287042979151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7242965344339609
+  lightness: 0.9626759402453899
+  saturation: 0.9904933902435005
+  rhythmicContrast: 0.5924798012711108
+purpose: []
